@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <image name="logo.jpg"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <font key="Button.font" type="system" face="0" style="0" size="0" />
+        <val key="Button.textDecoration" value="16" />
+        <val key="Container.align" value="4" />
+        <val key="Container.dis#align" value="3" />
+        <val key="Container.margin" value="0.0,100.0,15.0,15.0" />
+        <val key="Container.padding" value="0.0,100.0,100.0,100.0" />
+        <val key="ContentPane.bgColor" value="3bb925" />
+        <val key="ContentPane.fgColor" value="3bb925" />
+    </theme>
+</resource>
